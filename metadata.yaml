@@ -14,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4251
     wikipedia: http://desmoinesregister.com/extras/iowans/quick.html
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23745#Aladdin--amp--Co.--A-Romance-of-Yankee-Magic
 gutenberg_issued: '2007-12-05'
 gutenberg_type: Text
 identifiers:
